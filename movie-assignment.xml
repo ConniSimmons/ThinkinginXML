@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IMDb>
+    <disneyStreaming>
+
+        <status ranking="Editors' Picks">
+            <title>Recess</title>
+                <genre>TV Series</genre>
+                <rating>7.8</rating>
+                <actor>Andrew Lawrence</actor>
+                <actor>Ashley Johnson</actor>
+                <actor>Jason Davis</actor>
+                <abstract>Comic tales of a group of good friends, four boys and two girls, during breaks in primary school, as they grow up, relate to each other, and have brushes with authority.</abstract>
+        </status>
+
+        <status ranking="Editors' Picks">
+            <title>Gravity Fals</title>
+                <genre>TV Series</genre>
+                <rating>8.9</rating>
+                <actor>Jason Ritter</actor>
+                <actor>Alex Hirsch</actor>
+                <actor>Kristen Schaal</actor>
+                <abstract>Twin siblings Dipper and Mabel Pines spend the summer at their great-uncle's tourist trap in the enigmatic Gravity Falls, Oregon.</abstract>
+        </status>
+
+        <status ranking="Editors' Picks">
+            <title>The Black Hole</title>
+                <genre>Movie</genre>
+                <rating>6.0</rating>
+                <actor>Maximilian Schell</actor>
+                <actor>Anthony Perkins</actor>
+                <actor>Robert Forster</actor>
+                <abstract>A research vessel finds a missing ship, commanded by a mysterious scientist, on the edge of a black hole.</abstract>
+        </status>
+
+    </disneyStreaming>
+</IMDb>
